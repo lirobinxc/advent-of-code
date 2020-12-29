@@ -12,8 +12,8 @@ function question1() {
 
   for (let i of input) {
     if (i === '(') {
-      currentFloor++
-    } else currentFloor--;
+      ++currentFloor
+    } else --currentFloor;
   }
 
   console.log('Part 1 Answer:', currentFloor)
