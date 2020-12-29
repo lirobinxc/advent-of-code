@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./2015/2015-01/script.js",
+    "git": "git commit -m",
+    "postgit": "git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lirobinxc/advent-of-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lirobinxc/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/lirobinxc/advent-of-code#readme"
+}
