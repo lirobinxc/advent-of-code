@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon ./2015/06/part2.js",
+    "start": "nodemon ./2015/07/part1.js",
     "pregit": "git add .",
     "git": "git commit -m",
     "postgit": "git push"
